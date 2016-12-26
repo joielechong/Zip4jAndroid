@@ -8,14 +8,32 @@ Zip4j is a Java library for Zip files created by Srikanth Reddy Lingala.
 
 Based on zip4j version 1.3.2
 
-Please, visit [Lingala Zip4j site][1] or their [forum][2] to get support for it.
+Please visit [Lingala Zip4j site][1] or their [forum][2] to get support for it.
+
+Usage
+-----
+Add jitpack.io to your root build.gradle with:
+```gradle
+allprojects {
+    repositories {
+        maven { url "https://jitpack.io" }
+    }
+}
+```
+and to your app build.gradle:
+
+```gradle
+dependencies {
+    compile 'com.github.joielechong:zip4jandroid:1.0.1'
+}
+```
 
 License
 -------
 
     Copyright 2016 Joielechong
     
-    CopyRight 2010 Srikanth Reddy Lingala
+    Copyright 2010 Srikanth Reddy Lingala
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
