@@ -28,6 +28,10 @@ dependencies {
 }
 ```
 
+Example
+-------
+For Java Desktop app example, please see `non_android_example` folder.
+
 License
 -------
 
