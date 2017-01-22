@@ -1,8 +1,6 @@
 Zip4jAndroid
 =============
 
-W.I.P
-
 Zip4jAndroid is an Android Library for Zip4j.  
 Zip4j is a Java library for Zip files created by Srikanth Reddy Lingala.  
 
@@ -30,7 +28,7 @@ dependencies {
 
 Example
 -------
-For Java Desktop app example, please see `non_android_example` folder.
+For Java Desktop app example, please see `Zip4jExamples` folder.
 
 License
 -------
