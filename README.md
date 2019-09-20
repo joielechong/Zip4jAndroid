@@ -1,6 +1,11 @@
 Zip4jAndroid
 =============
 
+This project is deprecated,
+Please use https://github.com/srikanth-lingala/zip4j instead.
+
+-------
+
 Zip4jAndroid is an Android Library for Zip4j.  
 Zip4j is a Java library for Zip files created by Srikanth Reddy Lingala.  
 
